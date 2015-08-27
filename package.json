@@ -1,7 +1,7 @@
 {
   "name": "express-lowercase-urls",
   "version": "1.0.4",
-  "description": "a simple expressjs middleware to inforce only lowercase urls",
+  "description": "a simple expressjs middleware to inforce only lowercase urls.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
